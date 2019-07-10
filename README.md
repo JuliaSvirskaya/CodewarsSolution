@@ -1,8 +1,8 @@
 hello
 
-[https://www.codewars.com/kata/pick-a-set-of-first-elements/train/javascript]
+[CW] (https://www.codewars.com/kata/pick-a-set-of-first-elements/train/javascript)
 
-[https://www.codewars.com/kata/who-is-going-to-pay-for-the-wall/train/javascript/5d1250a69dd986001e9a64df]
+[CodeWars] (https://www.codewars.com/kata/who-is-going-to-pay-for-the-wall/train/javascript/5d1250a69dd986001e9a64df)
 
 [Codewars](https://www.codewars.com/kata/opposite-number/train/javascript)
 [
